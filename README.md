@@ -12,9 +12,9 @@
 
 ## GitHub Stats 📈
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oratorpage&theme=moltack" alt="oratorpage" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oratorpage&theme=moltack" alt="oratorpage" /></p>
 
-<p align="right">
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oratorpage&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
